@@ -1,1 +1,2 @@
 # assets
+Repository for assets.
